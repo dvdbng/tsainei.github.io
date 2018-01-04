@@ -2,14 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+獨遊上癮的臺灣女孩遇上靦腆的西班牙巴斯克男孩。兩人在臺灣相識，在西班牙相愛。務實的他說過最浪漫情話：「我要帶妳遊世界。」自此，她不搜集個人的世界地圖了，她要搜集兩人的地圖。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[anita810910@gmail.com](mailto:anita810910@gmail.com)
