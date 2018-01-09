@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+category: nidelvyouriji
 ---
 25.12.2016
 "That's the coolest Christmas ever!"
