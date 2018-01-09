@@ -61,7 +61,8 @@ published: true
 甫下車，
 大衛興奮地說這是他最特別的聖誕節，
 但我們一致同意以後再也不要遇上這樣的窘境。
-![IMG_20161225_171712.jpg]({{site.baseurl}}/_posts/IMG_20161225_171712.jpg)
+![IMG_20161225_171712.jpg]({{site.baseurl}}/image/IMG_20161225_171712.jpg)
+
 
 
  
