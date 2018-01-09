@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+![1515425417142.JPEG]({{site.baseurl}}/_posts/1515425417142.JPEG)
 25.12.2016
 "That's the coolest Christmas ever!"
 當我們一身濕淋淋的從摩托車上下來，
