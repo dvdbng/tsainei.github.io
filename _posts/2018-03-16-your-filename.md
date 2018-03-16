@@ -1,5 +1,6 @@
 ---
 published: false
+category: niaidejingdian
 ---
 第二日行程
 
@@ -109,7 +110,8 @@ published: false
 
 （這是學華衛的某張我最愛照片的姿勢）
 
-![]({{site.baseurl}}/images/20171126_162704.jpg)
+![]({{site.baseurl}}/images/20171126_162704.jpg)![20171126_162704.jpg]({{site.baseurl}}/images/20171126_162704.jpg)
+
 
 （反正裏面的展品大都是這樣的組合，我是看膩了啦！）
 
