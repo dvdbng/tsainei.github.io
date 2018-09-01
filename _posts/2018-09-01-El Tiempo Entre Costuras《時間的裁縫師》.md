@@ -6,7 +6,8 @@ category: nidesuinian
 
 Sira是個在馬德里的年輕裁縫師，她和媽媽在一家裁縫店工作，有一個工作穩定又愛她的未婚夫。她認爲她的生活就是這麼簡單，她別無所求，直到她在一家打字機店遇到了Ramiro…
 
-![ramiro.jpeg]({{site.baseurl}}/images/ramiro.jpeg)
+![ramiro mejor.jpeg]({{site.baseurl}}/images/ramiro mejor.jpeg)
+
 
 
 
