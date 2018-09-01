@@ -19,9 +19,7 @@ Sira是個在馬德里的年輕裁縫師，她和媽媽在一家裁縫店工作�
 
 失去一切後，背負沉重債務的Sira得在異鄉摩洛哥重新開始。她好不容易成就自己的裁縫事業後，卻又被捲入更複雜的事件,最後還成了間諜...
 
-![marcus.jpg]({{site.baseurl}}/images/marcus.jpg)
-
-
+![Marcus_Logan mejor.jpg]({{site.baseurl}}/images/Marcus_Logan mejor.jpg)
 
 (Marcus是Sira在摩洛哥認識的英國人，他也滿帥的啦...雖然不是我的菜）
 
