@@ -8,7 +8,11 @@ Sira是個在馬德里的年輕裁縫師，她和媽媽在一家裁縫店工作�
 
 ![ramiro.jpeg]({{site.baseurl}}/images/ramiro.jpeg)
 
+
+
 ![ramiro y sira.jpg]({{site.baseurl}}/images/ramiro y sira.jpg)
+
+
 
 瞧瞧那勾人的眼睛和身材，這個傢伙全身上下都很誘人吧？看長相，誰都知道這傢伙只適合拿來玩玩吧？不過Sira那時還是個單純的女孩，她錯誤的決定害了自己。這部電視劇有Ramiro的部分我看了兩次，每次看每次尖叫，看到他我都覺得好餓！
 
@@ -16,12 +20,18 @@ Sira是個在馬德里的年輕裁縫師，她和媽媽在一家裁縫店工作�
 
 ![marcus.jpg]({{site.baseurl}}/images/marcus.jpg)
 
+
+
 (Marcus是Sira在摩洛哥認識的英國人，他也滿帥的啦...雖然不是我的菜）
 
 
 這是一個細緻感人的美麗故事，製片很用心地依據小說情節在摩洛哥、馬德里和里斯本取景，讓觀衆也能感受到這些地方的美。還有，因爲Sira是個裁縫師，她在電視劇裡經常穿上絕美服裝，總是讓眼睛很享受！
 
+
+
 ![el tiempo vestido1.jpg]({{site.baseurl}}/images/el tiempo vestido1.jpg)
+
+
 
 ![sira vestido.jpg]({{site.baseurl}}/images/sira vestido.jpg)
 
