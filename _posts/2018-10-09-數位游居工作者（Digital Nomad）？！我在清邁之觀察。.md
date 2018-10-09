@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+category: nideguancha
 ---
 在清邁的咖啡廳或共同工作空間（co-working place）裡經常看到男男女女一臉認真地在使用電腦。
 
