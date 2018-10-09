@@ -18,7 +18,6 @@ category: nideguancha
 
 ![maya.jpg]({{site.baseurl}}/images/maya.jpg)
 
-
 （MAYA 購物中心的CAMP是個共同工作空間，那裏有各式各樣的座位、會議室和快速的wifi，因此許許多多遠端工作者喜歡在那工作。因爲常在那遇到宅宅軟體工程師，我都說那是Geek集散地。）
 
 因爲你在這裡自以爲很厲害的炫耀了一個詞彙，而不小心戳中了他們的點！
