@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 妮愛的景點
+title: 妮愛的景
 published: true
 ---
