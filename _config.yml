@@ -24,7 +24,7 @@ footer-links:
   linkedin:
   pinterest:
   medium: live-on-the-road
-  rss: # Live On The Road 開著家流浪
+  rss: Live On The Road 開著家流浪 # Live On The Road 開著家流浪
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -32,7 +32,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus:tsainei-com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
