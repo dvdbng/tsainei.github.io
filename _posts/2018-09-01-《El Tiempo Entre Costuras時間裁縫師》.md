@@ -1,6 +1,6 @@
 ---
 published: true
-category: nidesuinian
+category: spanish-tv-and-movies
 ---
 我非常喜歡的一部西班牙電視劇就是改編自小說的El Tiempo Entre Costuras《時間裁縫師》，只有一季，共10集。這部小說也有中文譯本。我是先看完電視劇再看小說的。小說和電視劇各有特色，我個人比較喜歡小說的結局，但電視劇的優點就是可以把書裡的角色形象化，欣賞帥哥美女和美麗的衣服總是讓人心情很好。
 
