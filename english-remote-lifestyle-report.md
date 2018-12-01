@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Lifestyle Report
+title: Remote Lifestyle Report
 published: true
 ---
