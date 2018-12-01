@@ -1,5 +1,5 @@
 ---
 layout: category
-title: 遊牧生活摘要
+title: 遠距生活摘要
 published: true
 ---
