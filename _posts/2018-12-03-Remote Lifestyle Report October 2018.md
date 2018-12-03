@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+category: english-remote-lifestyle-report
 ---
 This project was inspired by [Tomas Laurinavicius’ lifestyle reports](https://tomaslau.com/lifestyle-report/). I am fascinated by the idea of documenting our life. I hope this project not only gives me motivation to work on my blog, but also provides value to your life.   
 
@@ -10,7 +11,7 @@ This project was inspired by [Tomas Laurinavicius’ lifestyle reports](https://
 Total expense: 1737.29 euros
 The most we spent was our rental in Lisbon: 650 euros.
 
-We were in David’s parents house(Málaga) the beginning of October because we had to do the residence card and marriage interview. After our staying in Lisbon, we took a 3-day trip on the way back. We spent 350 euros on that trip.
+We were in David's parents' house (Málaga) the beginning of October because we had to do the residence card and marriage interview. After our staying in Lisbon, we took a 3-day trip on the way back. We spent 350 euros on that trip.
 
 🌍We have visited：
 
@@ -154,4 +155,3 @@ You can buy a 15 euros tickets to visit all of the roman ruins. However, some of
 We went to 3 meetups and made 0 friend!
 
 We have lowered our standard of “friends”: people we love to hang out with outside of the meetups are friends. Since we didn’t have enough time to chat with people in the meetups, it’s hard to know each other more. Normally we could only exchange our personal information. For instance, our nationalities, jobs and trips.
-
