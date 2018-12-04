@@ -157,4 +157,5 @@ We went to 3 meetups and made 0 friend!
 
 We have lowered our standard of “friends”: people we love to hang out with outside of the meetups are friends. Since we didn’t have enough time to chat with people in the meetups, it’s hard to know each other more. Normally we could only exchange our personal information. For instance, our nationalities, jobs and trips.
 
-![]({{site.baseurl}}/images/20181204_161914_0001.png)
+![]({{site.baseurl}}/images/20181204_161914_0001.png)![20181204_161914_0001.png]({{site.baseurl}}/images/20181204_161914_0001.png)
+
