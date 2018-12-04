@@ -4,6 +4,8 @@ category: english-remote-lifestyle-report
 ---
 This project was inspired by [Tomas Laurinavicius’ lifestyle reports](https://tomaslau.com/lifestyle-report/). I am fascinated by the idea of documenting our life. I hope this project not only gives me motivation to work on my blog, but also provides value to your life.   
 
+![20181203_191741_0000.png]({{site.baseurl}}/images/20181203_191741_0000.png)
+
 💶Expenses：
 
 ![20181101_083632.jpg]({{site.baseurl}}/images/20181101_083632.jpg)
