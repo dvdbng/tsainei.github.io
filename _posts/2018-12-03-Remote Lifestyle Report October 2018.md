@@ -4,8 +4,6 @@ category: english-remote-lifestyle-report
 ---
 This project was inspired by [Tomas Laurinavicius’ lifestyle reports](https://tomaslau.com/lifestyle-report/). I am fascinated by the idea of documenting our life. I hope this project not only gives me motivation to work on my blog, but also provides value to your life.   
 
-![20181203_191741_0000.png]({{site.baseurl}}/images/20181203_191741_0000.png)
-
 💶Expenses：
 
 ![20181101_083632.jpg]({{site.baseurl}}/images/20181101_083632.jpg)
@@ -157,3 +155,6 @@ You can buy a 15 euros tickets to visit all of the roman ruins. However, some of
 We went to 3 meetups and made 0 friend!
 
 We have lowered our standard of “friends”: people we love to hang out with outside of the meetups are friends. Since we didn’t have enough time to chat with people in the meetups, it’s hard to know each other more. Normally we could only exchange our personal information. For instance, our nationalities, jobs and trips.
+
+![20181203_191741_0000.png]({{site.baseurl}}/images/20181203_191741_0000.png)
+
