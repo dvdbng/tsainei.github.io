@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+category: english-live-on-the-road
 ---
 Once we had the idea to live on the road, we spent lots of time trying to get ready for the great journey. Based on our experience, these are the 7 things you should know before you live on the road:
  
