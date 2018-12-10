@@ -2,35 +2,36 @@
 published: true
 category: english-remote-lifestyle-report
 ---
-We were very productive this November. We were busy getting married and looking for a suitable van. Besides, I finished DELE A2 and CCSE exams, which are required for getting Spanish nationality.
+We were very productive this November. We're busy getting married and looking for a suitable van. Besides, I finished DELE A2 and CCSE exams, which are required for getting Spanish nationality.
 
-💶Expenses:
+**💶Expenses:**
 Total expenses :865.91 euros.
 
 Since we are living in David’s parents’ house, they support us financially. We didn’t spend much this month. The most we spent was the wedding and our second campervan trip.
 
 Wedding: 264.89 euros.
+
 Campervan trip: the rent was 350 euros and others 36.95 euros. Total 386.95 euros.
 
 ![]({{site.baseurl}}/images/2018%2011%20REMOTE%20LIFESTYLE%20REPORT.jpeg)!
 
-🌍Places we’ve been:
+**🌍Places we’ve been:**
 
 We didn’t go to anywhere special.
 
-🍻Social Life:
+**🍻Social Life:**
 
-We didn’t go to any parties or meetups. We made 0 friends!
+No parties or meetups. We made 0 friends!
 
-💻Productivity:
+**💻Productivity:**
 
 David did well in his job. I taught 18 hours of Mandarin. Because we are moving to a campervan, I decide not to teach more students. 
 
 I have witten[2018年10月遠距生活摘要](https://tsainei.com/2018%E5%B9%B411%E6%9C%88%E9%81%A0%E8%B7%9D%E7%94%9F%E6%B4%BB%E6%91%98%E8%A6%81/) [小氣夫婦住過的最貴移動飯店——露營車初體驗](https://tsainei.com/%E5%B0%8F%E6%B0%A3%E5%A4%AB%E5%A9%A6%E4%BD%8F%E9%81%8E%E7%9A%84%E6%9C%80%E8%B2%B4%E7%A7%BB%E5%8B%95%E9%A3%AF%E5%BA%97-%E9%9C%B2%E7%87%9F%E8%BB%8A%E5%88%9D%E9%AB%94%E9%A9%97/)
 
-📺TV & Movies:
+**📺TV & Movies:**
 
-We watched many Mandarin and Spanish TV series and movies in order to improve our languages. We watched something in english as well.
+We watched many Mandarin/Spanish TV series and movies in order to improve our language skills. We watched something in English as well.
 
 Mandarin TV series:
 
