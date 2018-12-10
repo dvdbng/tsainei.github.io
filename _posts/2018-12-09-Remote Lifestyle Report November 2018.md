@@ -69,6 +69,6 @@ English movies:
 
 👎🏽[Crazy Rich Asians](https://www.imdb.com/title/tt3104988/?ref_=fn_al_tt_1)
 
-It was too boring that my mother-in-law fell asleep after seeing it for 20 minutes. The main characters are so bad at speaking Mandarin. It was a pain to listen to their awful pronunciation. Even David speaks better than they!
+It was too boring that my mother-in-law fell asleep after seeing it for 20 minutes. The main characters are so bad at Mandarin. It was a pain to listen to their awful pronunciation. Even David speaks better than they!
 
 ![]({{site.baseurl}}/images/20181208_140247_0000.png)
