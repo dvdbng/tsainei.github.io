@@ -4,7 +4,7 @@ category: english-remote-lifestyle-report
 ---
 We finally found a van on the 12th of december. After buying this van (FIAT Ducato 2014), we started converting it into a campervan. Though we're busy everyday, we were satisfied with the progress.
 
-💶Expenses:
+**💶Expenses:**
 
 Total:15109.57 euros
 
@@ -13,21 +13,21 @@ The main expense was the cost of the van: 9000 euros. Besides, we spent 5175.92 
 ![20190101_180222.jpg]({{site.baseurl}}/images/20190101_180222.jpg)
 
 
-🌍Where we've been:
+**🌍Where we've been:**
 
 We didn't go to anywhere special. We went to Bricomart and Leroy Merlin to buy tools almost everyday.
 
-🍻Social life:
+**🍻Social life:**
 
 David went to a meetup to meet his university friends. I didn't go to any events.
 
-💻Productivity:
+**💻Productivity:**
 
 Now we're focusing on our van. David still does his job, but he doesn't need to spend a lot of time in it.
 
 I started Live On The Road （[@tsainei](https://www.instagram.com/tsainei/)). I post all of our process. 
 
-I've written 9 articles:
+**I've written 9 articles:**
 
 Mandarin:
 
