@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+category: english-remote-lifestyle-report
 ---
 We finally found a van on the 12th of december. After buying this van (FIAT Ducato 2014), we started converting it into a campervan. Though we're busy everyday, we were satisfied with the progress.
 
@@ -51,4 +52,3 @@ English:
 **I started sharing our trips on Backpackers**
 
 [六日騎車玩泰國清萊——周六夜市便宜又好買，飽覽泰緬邊界美景](https://www.backpackers.com.tw/forum/showthread.php?t=10217971#post10805285)
-
