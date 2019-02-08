@@ -1,5 +1,6 @@
 ---
 published: true
+category: english-remote-lifestyle-report
 ---
 
 Let me be honest and use one sentence to summarize this month, 'We regret making the campervan on our own.'
@@ -78,4 +79,3 @@ I posted an article about my Wadi Rum hiking trip on backpackers.com.tw:
 11.[那天，我在火星漫步28公里 — — 約旦Wadi Rum健行攻略+遊記](https://www.backpackers.com.tw/forum/showthread.php?t=10232853)
 
 ![20190205_140018_0001.png]({{site.baseurl}}/images/20190205_140018_0001.png)
-
