@@ -12,7 +12,7 @@ A good dream has become a nightmare, an endless nightmare.
 After consideration, we decided to find some help. Mr. D helps us to make the furnitures, walls and ceiling. Thanks to his help, we feel more relieved. 
 
 ![fufu.jpeg]({{site.baseurl}}/images/fufu.jpeg)
-(A peek to our FuFu. You can see our daily progress [@tsainei](https://www.instagram.com/tsainei/?hl=es))
+(A peek at our FuFu. You can see our daily progress [@tsainei](https://www.instagram.com/tsainei/?hl=es))
 
 ## 💶Expenses：
 
