@@ -10,9 +10,14 @@ A good dream has become a nightmare, an endless nightmare.
 
 After consideration, we decided to find some help. Mr. D helps us to make the furnitures, walls and ceiling. Thanks to his help, we feel more relieved. 
 
+![fufu.jpeg]({{site.baseurl}}/images/fufu.jpeg)
+(A peek to our FuFu. You can see our daily progress @tsainei)
+
 💶Expenses：
 
 Total: 1523.5 euros
+![20190201_093623.jpg]({{site.baseurl}}/images/20190201_093623.jpg)
+
 
 Our main expense is van conversion. We spent 702.34 euros on the equipments, 150 on my second hand bike and 360 euros on hiring the worker to help us.
 
@@ -69,7 +74,3 @@ I guest-posted in Remote Taiwan. The article is about house rental in Chiang Mai
 I posted an article about my Wadi Rum hiking trip on backpackers.com.tw:
 
 [那天，我在火星漫步28公里 — — 約旦Wadi Rum健行攻略+遊記](https://www.backpackers.com.tw/forum/showthread.php?t=10232853)
-
-
-
-
