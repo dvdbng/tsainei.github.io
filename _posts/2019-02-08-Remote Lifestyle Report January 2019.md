@@ -3,7 +3,7 @@ published: true
 category: english-remote-lifestyle-report
 ---
 
-Let me be honest and use one sentence to summarize this month, 'We regret making the campervan on our own.'
+Let me be honest and use one sentence to summarize this month, **'We regret making the campervan on our own.'**
 
 We overestimate our abilities. We didn’t know it’s that difficult to convert a van into a campervan. We always find more problems when solving one problem. Sometimes we really don’t know how to deal with them. For example, we were so confused about what to do with the walls and ceiling. Since David is very tall, we should not use wood board to make them. Otherwise, he can’t stand and sleep comfortably in the van. We were lost for 2 weeks.
 
@@ -14,9 +14,9 @@ After consideration, we decided to find some help. Mr. D helps us to make the fu
 ![fufu.jpeg]({{site.baseurl}}/images/fufu.jpeg)
 (A peek to our FuFu. You can see our daily progress [@tsainei](https://www.instagram.com/tsainei/?hl=es))
 
-💶Expenses：
+## 💶Expenses：
 
-Total: 1523.5 euros
+**Total: 1523.5 euros**
 
 ![20190201_093623.jpg]({{site.baseurl}}/images/20190201_093623.jpg)
 
@@ -24,21 +24,21 @@ Our main expense is van conversion. We spent 702.34 euros on the equipments, 150
 
 Besides, I spent 260 euros on dental treatment. Sometimes my teeth hurt when eating, so I went to the dentist. Deep teeth cleaning cost 60 euros. Also, I bought dental night guard to prevent my grinding problem at night.
 
-🌍We have visited：
+## 🌍We have visited：
 
 Staying home to make the van, we didn’t visit somewhere special. We visited Leroy Merlin and Bricomart like visiting 7-11!
 
-🍻Social Life:
+## 🍻Social Life:
 
-Drum rolls….
+Drum rolls…
 
-This month we went to 2 meetups and made 1 friend!
+**This month we went to 2 meetups and made 1 friend!**
 
 David met his university friends before they leaving the city after new year.
 
 I met a Taiwanese girl who’s living in the south of Spain. We will meet more in the future.
 
-💻Productivity:
+**💻Productivity:**
 
 Though the van conversion is the most important thing to do, we can’t abandon our jobs and other projects.
 
