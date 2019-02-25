@@ -3,16 +3,45 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    {% if page.category %}
+        {% assign cat_parts = page.category| split: "-" %}
+        {% if cat_parts.first == "english" %}
+            <meta http-equiv="content-language" content="en">
+            <meta property="og:locale" content="en_US">
+        {% else %}
+            <meta http-equiv="content-language" content="zh">
+            <meta property="og:locale" content="zh_TW">
+        {% endif %}
     {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
+        <meta http-equiv="content-language" content="zh">
+        <meta property="og:locale" content="zh_TW">
     {% endif %}
+
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.name }}">
     <meta name="author" content="{{ site.name }}" />
+    <meta property="article:publisher" content="https://www.facebook.com/tsainei.yuan" />
+    <meta property="article:author" content="https://www.facebook.com/tsainei.yuan" />
+    {% if page.date %}<meta property="article:published_time" content="{{ page.date }}" />{% endif %}
+    
+    {% if page.image %}
+        <meta property="og:image" content="{{ site.url }}{{page.image}}" />
+
+    {% else %}
+        <meta property="og:image" content="{{ site.url }}/images/20171126_104201.jpg" />
+    {% enfif %}
+
+
+    {% if page.excerpt %}
+        <meta name="description" content="{{ page.excerpt| strip_html }}" />
+        <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+        <meta property="og:type" content="article">
+    {% else %}
+        <meta name="description" content="{{ site.description }}">
+        <meta property="og:description" content="{{ site.description }}" />
+    {% endif %}
 
     {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
