@@ -1,6 +1,7 @@
 ---
 published: true
 category: english-remote-lifestyle-report
+image: /images/20190205_140018_0001.png
 ---
 
 Let me be honest and use one sentence to summarize this month, **'We regret making the campervan on our own.'**
